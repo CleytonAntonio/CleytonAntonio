@@ -1,3 +1,4 @@
+## Hi there, I'm Cleyton and it's nice to have you around! 
 - :open_book: I have a degree in Information Systems
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
  
