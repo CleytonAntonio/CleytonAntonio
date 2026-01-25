@@ -1,37 +1,71 @@
-## Hi there, I'm Cleyton and it's nice to have you around! 
-- :open_book: I have a degree in Information Systems
-- :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
- 
-## Currently learning:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:203a43&height=180&section=header&text=Cleyton%20Antonio&fontSize=42&fontColor=ffffff" />
+</p>
 
-<!-- HTML -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-</a>
-<!-- CSS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</a>
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</a>
-<!-- Node.js -->
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=22&center=true&vCenter=true&width=520&lines=Front-end+Developer;React+Enthusiast;Gamer+%F0%9F%8E%AE+|+Code+%F0%9F%92%BB+|+Learn+%F0%9F%9A%80" />
+</p>
 
-## Currently Contribution:
-<div>
-<a href="https://github.com/CleytonAntonio">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonAntonio&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CleytonAntonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+---
+
+## 🎮 Sobre mim
+
+💻 Estudante de **Front-end** focado em criar interfaces modernas e responsivas.  
+⚛️ Em especialização em **React**.  
+🎯 Curto desafios, UI bem feita e aprender algo novo todo dia.
+
+- 🌱 Estudando: **React, JavaScript moderno e Node.js**
+- 🧠 Interesses: **UI/UX, performance e componentes reutilizáveis**
+- 🎮 Gamer nas horas vagas
+
+---
+
+## 🛠️ Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git&theme=dark" />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Em breve...**  
+> Estou organizando meus projetos de estudo e prática em React ⚛️
+
+🔹 **Front-end Labs**  
+> Componentes, layouts e experimentos com HTML, CSS e JS.
 
 
-## Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleytonantonio/) 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cleytonantonio&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonantonio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Atividade
+
+![Snake animation](https://github.com/cleytonantonio/cleytonantonio/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ✨ Frase do dia
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 🔗 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/cleytonantonio
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=80&section=footer" />
+</p>
