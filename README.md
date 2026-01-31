@@ -23,7 +23,7 @@
 ## 🛠️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,git&theme=dark" />
 </p>
 
 ---
