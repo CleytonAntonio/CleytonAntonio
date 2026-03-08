@@ -48,12 +48,6 @@
 
 ---
 
-## 🐍 Atividade
-
-![Snake animation](https://github.com/cleytonantonio/cleytonantonio/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## ✨ Frase do dia
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
